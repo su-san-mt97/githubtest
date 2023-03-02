@@ -32,3 +32,4 @@ void main()
     display("This is stings.");
     printf("result=%d¥n",compare(120, 120));
 }
+
