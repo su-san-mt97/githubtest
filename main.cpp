@@ -1,5 +1,5 @@
 #include "stdio.h"
-#define abc 12345
+#define abc 123
 
 void main()
 {
