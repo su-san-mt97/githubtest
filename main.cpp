@@ -16,3 +16,8 @@ int sub_func(int x, int y)
 {
     return(x-y);
 }
+
+int display(char *ptr)
+{
+    printf("%s¥n");
+}
